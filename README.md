@@ -1,1 +1,2 @@
-# Flask2
+# fitness-pose-api
+Flask API for pose classification
